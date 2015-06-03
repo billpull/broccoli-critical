@@ -1,0 +1,41 @@
+{
+  "name": "broccoli-critical",
+  "version": "0.0.1",
+  "description": "Broccoli Plugin For Critical Css",
+  "bugs": {
+    "url": "billpull/broccoli-critical/issues"
+  },
+  "author": {
+    "name": "Bill Pullen",
+    "email": "bill.pull@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "billpull/broccoli-critical"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "broccoli-plugin",
+    "broccoli-critical",
+    "broccoli",
+    "critical",
+    "css",
+    "critical css"
+  ],
+  "dependencies": {
+    "broccoli-writer": "^0.1.1",
+    "rsvp": "^3.0.18"
+  },
+  "devDependencies": {
+    "broccoli": "^0.15.3",
+    "broccoli-string-replace": "0.0.2",
+    "mocha": "*",
+    "rimraf": "^2.3.2"
+  },
+  "scripts": {
+    "test": "broccoli build temp && mocha"
+  }
+}
