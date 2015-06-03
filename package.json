@@ -27,11 +27,11 @@
   ],
   "dependencies": {
     "broccoli-writer": "^0.1.1",
+    "critical": "^0.5.7",
     "rsvp": "^3.0.18"
   },
   "devDependencies": {
     "broccoli": "^0.15.3",
-    "critical": "^0.5.7",
     "mocha": "*",
     "rimraf": "^2.3.2"
   },
