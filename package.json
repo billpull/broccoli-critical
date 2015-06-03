@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Broccoli Plugin For Critical Css",
   "bugs": {
-    "url": "billpull/broccoli-critical/issues"
+    "url": "https://github.com/billpull/broccoli-critical/issues"
   },
   "author": {
     "name": "Bill Pullen",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "billpull/broccoli-critical"
+    "url": "https://github.com/billpull/broccoli-critical"
   },
   "license": "MIT",
   "files": [
